@@ -15,7 +15,7 @@ For each prompt:
 Your AI is not a code generator here — it is a language design reviewer.
 ________________________________________
 
-## Part 1 — Understanding the Strategic Intent
+## Part 1 - Understanding the Strategic Intent
 
 ### Practice Prompt 1: Why Symmetry Matters
 
@@ -59,7 +59,7 @@ Outcome:
 You should clearly see C# 14 as an inevitable step, not an arbitrary one.
 ________________________________________
 
-## Part 2 — API Design and Expressiveness
+## Part 2 - API Design and Expressiveness
 
 ### Practice Prompt 3: Extension Members vs Extension Methods
 
@@ -101,7 +101,7 @@ Outcome:
 You should recognize where older APIs were forced into unnatural shapes.
 ________________________________________
 
-## Part 3 — Correctness and Intent
+## Part 3 - Correctness and Intent
 
 ### Practice Prompt 5: Null-Conditional Assignment Semantics
 
@@ -143,7 +143,7 @@ Outcome:
 You should be able to spot clearer intent instantly when reading code.
 ________________________________________
 
-## Part 4 — Generics, Diagnostics, and Tooling
+## Part 4 - Generics, Diagnostics, and Tooling
 
 ### Practice Prompt 7: nameof and Unbound Generics
 
@@ -166,7 +166,7 @@ Outcome:
 You should understand why this matters far more to experts than beginners.
 ________________________________________
 
-## Part 5 — Performance as a Default Path
+## Part 5 - Performance as a Default Path
 
 ### Practice Prompt 8: Span Ergonomics Philosophy
 
@@ -189,7 +189,7 @@ Outcome:
 You should internalize why modern C# nudges rather than mandates.
 ________________________________________
 
-## Part 6 — Lambdas and Functional Parity
+## Part 6 - Lambdas and Functional Parity
 
 ### Practice Prompt 9: Lambdas Becoming First-Class
 
@@ -211,7 +211,7 @@ Outcome:
 
 You should no longer think of lambdas as second-tier constructs.
 ________________________________________
-## Part 7 — Explicit Storage and Hidden Complexity
+## Part 7 - Explicit Storage and Hidden Complexity
 
 ### Practice Prompt 10: Field-Backed Properties
 
@@ -233,7 +233,7 @@ Outcome:
 
 You should know how to reveal storage only when it matters.
 ________________________________________
-## Part 8 — Structural Completion
+## Part 8 - Structural Completion
 
 ## Practice Prompt 11: Partial Events and Constructors
 
@@ -274,7 +274,7 @@ Outcome:
 You should be able to design cleaner initialization flows.
 ________________________________________
 
-## Part 9 — Operator Semantics and Honesty
+## Part 9 - Operator Semantics and Honesty
 
 ### Practice Prompt 13: Compound Assignment Operators
 
@@ -297,7 +297,7 @@ Outcome:
 You should understand why operator overloading is now more honest.
 ________________________________________
 
-## Part 10 — Language Maturity Reflection
+## Part 10 - Language Maturity Reflection
 
 ### Practice Prompt 14: Evolution Framework Evaluation
 
